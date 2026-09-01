@@ -218,3 +218,20 @@ __marimo__/
 .streamlit/secrets.toml
 
 .DS_Store
+
+# Данные — никогда не коммитим
+*.csv
+*.parquet
+*.xlsx
+data/*
+!data/README.md
+
+# Секреты
+.env
+*.pem
+credentials.json
+
+# Мусор окружения
+.venv/
+.ipynb_checkpoints/
+.DS_Store
