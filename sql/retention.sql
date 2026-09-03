@@ -10,3 +10,4 @@ from first_order
 group by 1
 order by 1;
 checking
+DOG

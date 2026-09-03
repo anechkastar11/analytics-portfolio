@@ -12,4 +12,4 @@
 
 Аналитик данных. Ищу первую работу в аналитике.
 03.09.26
-adding example
+adding exampleSAM
